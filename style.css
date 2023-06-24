@@ -1,0 +1,28 @@
+/* body{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    box-sizing: border-box;
+    text-align: center;
+} */
+body{
+    text-align: center;
+    background-image: url(back.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    font-size: larger;
+    font-weight: bolder;
+    font-style: oblique;
+}
+.button{
+    text-align: center;
+    font-size: large;
+    background-color: aliceblue;
+    border: 1px solid black;
+    font-weight: bold;
+    font-style: oblique;
+}
+input{
+    border: 2px solid black;
+}
